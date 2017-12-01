@@ -61,6 +61,10 @@ footer {
 	padding: 1px;
 }
 
+#press img:hover {
+	border: 5px #eee dashed;
+}
+
 header a {
 	color: gray;
 	text-decoration: none;

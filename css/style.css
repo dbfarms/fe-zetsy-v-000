@@ -24,4 +24,6 @@ body {
 /* Write all remaining styles here */
 h1 {
 	font-family: Baskerville;
+	color: gray;
+	font-size: 20pt;
 }

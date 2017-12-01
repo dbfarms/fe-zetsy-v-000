@@ -27,3 +27,9 @@ h1 {
 	color: gray;
 	font-size: 70pt;
 }
+
+img {
+	border-style: solid;
+	border-color: gray;
+	border-width: medium;
+}

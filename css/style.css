@@ -56,6 +56,11 @@ footer {
 	margin-bottom: 20px;
 }
 
+#press img {
+	border: 5px #ccc solid;
+	padding: 1px;
+}
+
 header a {
 	color: gray;
 	text-decoration: none;

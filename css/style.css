@@ -52,6 +52,10 @@ footer {
 	font-size: 0.75em
 }
 
+header a:hover {
+	color: rgb(111,127,122)
+}
+
 img {
 	border-style: solid;
 	border-color: gray;

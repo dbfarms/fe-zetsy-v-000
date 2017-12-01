@@ -43,7 +43,7 @@ p {
 }
 
 p .foot {
-	align: right;
+	float: right;
 }
 
 img {
